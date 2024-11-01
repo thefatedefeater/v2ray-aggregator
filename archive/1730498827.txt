@@ -1,0 +1,10 @@
+trojan://telegram-id-directvpn@18.168.15.115:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://c9c89064-240c-4b49-b45f-0a1ff29d7de4@172.67.159.223:443?security=tls&sni=lstar.ir&type=ws&host=lstar.ir&path=%2F&fp=random&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.114:8443?type=ws&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE?ed%3D8080&security=tls&fp=chrome&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.150.152.24:8881#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.254.44.30:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.254.44.30:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://0b6f2ccb-d61b-11ee-aaa8-00505603e70d@st-fr-1.brocdn.com:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&type=ws&sni=st-fr-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c9c89064-240c-4b49-b45f-0a1ff29d7de4@172.67.159.223:443?security=tls&sni=lstar.ir&type=ws&host=lstar.ir&path=%2F&fp=random&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
