@@ -1,15 +1,3 @@
-vless://f4fffd3b-32ff-4d54-b232-0de299a7553b@uae.jjavaher.ir:8811?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://f4fffd3b-32ff-4d54-b232-0de299a7553b@uae.jjavaher.ir:8811?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.26.12.31:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.24.35.243:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.24.35.243:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://auto@104.26.12.31:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.16.21.118:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.16.21.118:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-
-
 vless://81587701-5184-4999-b130-2c7a6f99bb24@www.visa.com.sg:8443?encryption=none&security=tls&sni=pardazeshvpn-tg34.pages.dev&type=ws&host=pardazeshvpn-tg34.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://81587701-5184-4999-b130-2c7a6f99bb24@www.visa.com.sg:8443?encryption=none&security=tls&sni=pardazeshvpn-tg34.pages.dev&type=ws&host=pardazeshvpn-tg34.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev:2053?encryption=none&security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -296,5 +284,17 @@ vmess://eyJhZGQiOiAiaXJ2aWRlby5jZmQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAi
 vmess://eyJhZGQiOiAiMTcyLjY3LjI0NC4xOTEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ3dkZWYuc2JzIiwgImlkIjogImJjODY0MDc4LWRjZjMtNGJmNC04ZGJmLWNhOWYyMDBiNTZiZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJnd2RlZi5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
 vmess://eyJhZGQiOiAiMTcyLjY3LjE3NC40MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnd2RlZi5zYnMiLCAiaWQiOiAiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImd3ZGVmLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+
+
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=netflix.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 
 
