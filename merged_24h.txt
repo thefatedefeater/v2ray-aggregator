@@ -1,15 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdld2TTBJUDZ3aFVLYU1FdXFlTjZN@147.45.136.147:41095#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://Parsashonam-107@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@54.170.208.103:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://63df7bc3-ef0a-47c9-8a70-95b00270b884@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://63df7bc3-ef0a-47c9-8a70-95b00270b884@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.nl1.78.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=PpAL03.mr-KOBy-gRAhAM.WorKeRS.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PPAL03.MR-kOBy-GRaHam.WorkErS.deV&path=%2FAamoZBGqoptwavQ2%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -284,5 +272,17 @@ vless://4324423e-23ed-421f-be18-5fe56bcb010f@hajlab.ucdavis.edu:443?type=ws&host
 vless://4324423e-23ed-421f-be18-5fe56bcb010f@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://Parsashonam-110@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://4324423e-23ed-421f-be18-5fe56bcb010f@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
+vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3fd8493b-ad97-45fd-8283-55e5a6e4cf6c@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=ws&host=www.speedtest.net.i.xn111-qze36dsg.cdn.kiava.live.&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6ff1fc0d-6066-4c7c-aed9-73632a7600f3@www.speedtest.net:8880?path=%2F+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2&security=none&encryption=none&host=all2.skydna.online&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6ff1fc0d-6066-4c7c-aed9-73632a7600f3@www.speedtest.net:8880?path=%2F+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2&security=none&encryption=none&host=all2.skydna.online&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
