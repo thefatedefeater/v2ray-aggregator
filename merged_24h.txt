@@ -1,15 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=PpAL03.mr-KOBy-gRAhAM.WorKeRS.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PPAL03.MR-kOBy-GRaHam.WorkErS.deV&path=%2FAamoZBGqoptwavQ2%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://63df7bc3-ef0a-47c9-8a70-95b00270b884@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvTHlISFlnNmE5VG5yVjlrTE5HSGxO@51.158.252.130:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-directvpn@15.188.9.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://1de40725-3e6b-42b1-9e3e-330c852d049e@172.66.45.31:8443?path=%2FTelegram----%40PROXY_MTM----TELEGRAM----%40PROXY_MTM-TELEGRAM----%40PROXY_MTM----%40PROXY_MTM----%40PROXY_MTM----%40PROXY_MTM----%40PROXY_MTM%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg56.pages.dev&type=ws&sni=pardazeshvpn-tg56.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-
-
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.65:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@www.speedtest.net:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.207:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -284,5 +272,17 @@ vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D
 vless://3fd8493b-ad97-45fd-8283-55e5a6e4cf6c@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=ws&host=www.speedtest.net.i.xn111-qze36dsg.cdn.kiava.live.&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://6ff1fc0d-6066-4c7c-aed9-73632a7600f3@www.speedtest.net:8880?path=%2F+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2&security=none&encryption=none&host=all2.skydna.online&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://6ff1fc0d-6066-4c7c-aed9-73632a7600f3@www.speedtest.net:8880?path=%2F+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2+%40FalconargoVPN2&security=none&encryption=none&host=all2.skydna.online&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&sid=ad52706b&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?encryption=none&security=tls&sni=tnetplus3.pages.dev&fp=randomized&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8f8622b9-4ddf-4568-af35-3b75f2f82191@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.103:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?encryption=none&security=tls&sni=tnetplus3.pages.dev&fp=randomized&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2fd2aa69-a5b3-4d81-9c35-8c8cad908c2a@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arddekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://4324423e-23ed-421f-be18-5fe56bcb010f@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
