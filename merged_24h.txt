@@ -1,15 +1,3 @@
-trojan://WOeXShhJpL@172.67.67.64:443?allowInsecure=0&sni=09jzus.zdzdzd.xyz&ws=1&wspath=%2Fjuzigongyi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.112:443?security=tls&sni=behdasht.hrtc.ir&type=ws&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.94.131:2083?security=tls&sni=KiNG-TelEGRam.7717C09099.wOrkers.dEV&type=ws&host=king-telegram.7717c09099.workers.dev&path=%2FcrOM0xpp4wLTtAUs%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://WOeXShhJpL@172.67.67.64:443?allowInsecure=0&sni=09jzus.zdzdzd.xyz&ws=1&wspath=%2Fjuzigongyi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@35.179.190.208:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.94.131:2083?security=tls&sni=KiNG-TelEGRam.7717C09099.wOrkers.dEV&type=ws&host=king-telegram.7717c09099.workers.dev&path=%2FcrOM0xpp4wLTtAUs%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://WOeXShhJpL@172.67.67.64:443?allowInsecure=0&sni=09jzus.zdzdzd.xyz&ws=1&wspath=%2Fjuzigongyi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5e5ed4b8-f4d1-4d65-af54-b90dafd3f31b@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc81.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://477d2ce2-eecb-4a7c-8cde-71e2b948346b@www.speedtest.net:2086?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a36c3d15-5cf5-4f5c-c8aa-fac1c2bd7624@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-
-
 vless://V2RAXX---@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://V2RAXX---@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://V2RAXX---@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -284,5 +272,17 @@ trojan://telegram-id-privatevpns@3.9.137.149:22222?security=tls&sni=trojan.burge
 trojan://auto@172.66.47.150:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://3690911436885991424@52.221.9.240:443?security=tls&type=tcp&sni=master-boxer.pig299.lat#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://dcefc473-6930-4611-bcef-bd6cbc120a56@104.17.147.22:2052?security=none&type=httpupgrade&host=https.www.dash.cloudflare.com.www.zula.ir.www.soft98.ir.www.speedtest.net.iranstars-shop.ir&path=%2FStop%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=PpAl03.LaKoDA-tyrON.WorkErS.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ppAl03.laKOdA-tYRon.WOrkERs.DeV&path=%2FELUF6sspeoIuBrl9%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://u3er4Vpn-@live.wkrq.com:443?security=tls&encryption=none&type=ws&host=u3er4Vpn.com&path=/@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn?ed%3D2048&sni=live.wkrq.com&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://213d6337-7e90-43cb-b515-e392c946b371@cpanel.com:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=WWW.felafel.org.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://213d6337-7e90-43cb-b515-e392c946b371@cpanel.com:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=WWW.felafel.org.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://%4aoi%6e--%5a%45%44%4d%4f%44%45%4f%4e@ergwork.web.unc.edu:443?serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=%2F%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e%40%5a%45%44%4d%4f%44%45%4f%4e-%54%45%4c-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e%3Fed%3D2048&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=tls&encryption=none&host=snapp.taxi&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+trojan://3648425794742788096@34.199.116.49:443?security=tls&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
