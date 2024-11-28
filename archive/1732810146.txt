@@ -1,0 +1,10 @@
+vless://2d12baa0-d4e7-463a-814a-740adebe1f1d@www.speedtest.net:8880?path=%2FOmid%3Fed%3D2560&security=none&encryption=none&host=m.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@35.92.76.249:80?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@44.244.61.74:80?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@35.88.58.22:80?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@35.163.177.44:80?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@34.219.192.132:80?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@35.166.126.75:80?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://38af79a5-68cb-415e-8638-40adaf38bb05@ip-tamiz.antishop.sbs:2052?path=%2F%3Fed%3D443&security=none&encryption=none&host=https.www.http.com.org.top.antiteam.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@35.92.76.249:80?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@104.26.14.85:2083?path=%2FUoD8QOdaABE4rN7hQY9M0B8&security=tls&encryption=none&alpn=h2&host=spedfree.akbaru.ir&fp=chrome&type=ws&sni=spedfree.akbaru.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
