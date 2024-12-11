@@ -13,12 +13,6 @@
 
 
 
-
-
-
-
-
-
 vless://b9509f1d-fed1-49bd-acd4-038ad13c81e7@www.speedtest.net:443?path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&security=tls&encryption=none&host=86278058785885367257976103254902.v2line.net&type=ws&sni=86278058785885367257976103254902.v2line.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://b9509f1d-fed1-49bd-acd4-038ad13c81e7@www.speedtest.net:443?path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&security=tls&encryption=none&host=86278058785885367257976103254902.v2line.net&type=ws&sni=86278058785885367257976103254902.v2line.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://3a15a346-2f6f-41bc-ad0c-a885aec3002a@www.speedtest.net:443?path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&security=tls&encryption=none&host=46771119909676129223555549792065.v2line.net&type=ws&sni=46771119909676129223555549792065.v2line.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -413,5 +407,27 @@ vless://aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&h
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F%3Fed#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@13.42.82.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&host=www.meloammn.ir&path=/melo/ws?e#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+trojan://blue2024@104.18.118.73:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.17.27.142:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Parsashonam-126@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@104.19.238.216:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ca156343-91ca-4398-a0e8-23e6480a8718@tun.ferdowsi.shop:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&sni=g4.ferdowsi.shop#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://e9978c18-0465-47e8-9c20-63d5549c8a60@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&security=none&encryption=none&host=Tehranc3.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e9978c18-0465-47e8-9c20-63d5549c8a60@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&security=none&encryption=none&host=Tehranc3.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Parsashonam-126@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://ca156343-91ca-4398-a0e8-23e6480a8718@tun.ferdowsi.shop:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&sni=g4.ferdowsi.shop#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://blue2024@104.18.43.220:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@198.41.212.250:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.64.229.171:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://17844e21-8ddc-4474-8c1f-88dcfa96239a@hajlab.ucdavis.edu:443?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&security=tls&encryption=none&host=Joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://17844e21-8ddc-4474-8c1f-88dcfa96239a@hajlab.ucdavis.edu:443?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&security=tls&encryption=none&host=Joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://efad16a4-54ee-4d26-a58d-bf6c151331c2@EXPRESSVPN_420.fast.hosting-ip.com:80?path=%2F%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Zibay.maN.toi.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://efad16a4-54ee-4d26-a58d-bf6c151331c2@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2F%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Zibay.maN.toi.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://efad16a4-54ee-4d26-a58d-bf6c151331c2@EXPRESSVPN_420.fast.hosting-ip.com:80?path=%2F%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Zibay.maN.toi.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+trojan://blue2024@104.16.159.159:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.17.21.144:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
