@@ -1,15 +1,3 @@
-vless://c9883029-6df3-4998-841a-7b51339e4b4e@www.speedtest.net:8880?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F&security=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=olemam.com&path=%2Folem%2Fws%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c9883029-6df3-4998-841a-7b51339e4b4e@www.speedtest.net:8880?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F&security=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://4c60f280-4f06-4e53-829e-222723c6289d@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2c02776b-1250-47e0-a889-db5eeaff74a5@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-
-
 vless://c10c176f-288d-53be-b5de-d60077a21e99@199.232.125.50:443?allowInsecure=1&security=tls&host=E-L-I-V-2-R-A-Y-0.COM&fp=qq&type=ws&sni=E-L-I-V-2-R-A-Y-0.COM#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://363c6e24-7f75-4c91-a5d6-5c8a935c3378@mio.splashthat.com:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kazemi1311zerofun.com&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://c10c176f-288d-53be-b5de-d60077a21e99@sPeEdtEsT.nEt:80?host=E-L-I-V-2-R-A-Y-0.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
@@ -284,5 +272,17 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy4xMDAiLCAicG9ydCI6ICI0ODY5NiIsICJ0
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@129.146.254.39:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTVNVXdacVZzRmtER1hRZmFiSlA5@185.33.24.19:39448#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@45.158.59.74:58060#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy4xMDAiLCAicG9ydCI6ICI0ODY5NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNzI5OTNjZDktYjg4OC00ZTI0LWI5NjktZmRhOTllMGEwMzA3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhUnVzc2lhIn0=
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy4xMDAiLCAicG9ydCI6ICI0ODY5NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOWQ0OTlmMzYtY2Y0YS00N2E2LTk2MjktYzk2MDg5MjdhMWEzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhUnVzc2lhIn0=
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ2LjI5LjE2MS4yMjQiLCAicG9ydCI6ICI0ODY5NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNzI5OTNjZDktYjg4OC00ZTI0LWI5NjktZmRhOTllMGEwMzA3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhUnVzc2lhIn0=
+vless://6d420083-4bb5-4a50-ad4a-44e35da0a26f@151.101.3.8:80?type=ws&path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&host=Tehran2.Org&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.101:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.101:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6d420083-4bb5-4a50-ad4a-44e35da0a26f@151.101.3.8:80?type=ws&path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&host=Tehran2.Org&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy4xMDAiLCAicG9ydCI6ICI0ODY5NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOWQ0OTlmMzYtY2Y0YS00N2E2LTk2MjktYzk2MDg5MjdhMWEzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhUnVzc2lhIn0=
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy43MyIsICJwb3J0IjogIjQ4Njk2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3Mjk5M2NkOS1iODg4LTRlMjQtYjk2OS1mZGE5OWUwYTAzMDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy4xMDAiLCAicG9ydCI6ICI0ODY5NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMjMzNTg2MzItOWMzNS00ZWMzLWFiYmItODZmMmM5OTgzZDVlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhUnVzc2lhIn0=
 
 
