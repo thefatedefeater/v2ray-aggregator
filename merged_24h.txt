@@ -1,15 +1,3 @@
-vless://c405398e-9a13-4e7a-bda7-420bee9a09b4@5.202.6.243:1486?security=none&type=tcp&path=%2F&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://c405398e-9a13-4e7a-bda7-420bee9a09b4@5.202.6.243:1486?security=none&type=tcp&path=%2F&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.0.178:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.0.178:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?security=tls&sni=live.skornorth.com&type=ws&host=5774.ir&fp=chrome&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?security=tls&sni=live.skornorth.com&type=ws&host=5774.ir&fp=chrome&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=ubuntu.com&sid=7fe29733#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=ubuntu.com&sid=7fe29733#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://68d0f3df-6af0-4fca-82df-5b2ea11cd942@visa.com:2082?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.developer1.dns-dynamic.net.xn--9iqr0tm1r4wg.co&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://68d0f3df-6af0-4fca-82df-5b2ea11cd942@visa.com:2082?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.developer1.dns-dynamic.net.xn--9iqr0tm1r4wg.co&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-
-
 trojan://telegram-id-privatevpns@3.8.26.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.bEsTdRlImIt.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.bEsTdRlImIt.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
@@ -284,5 +272,8 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Cteleg
 vless://9a6d81c6-1f02-4928-ab1b-7bbf19a5ae75@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=6.fidsxss6x.iR&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw82.net&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://b5af85a1-d7cb-43ad-b991-6f3b904c067e@konkurifree.sanjesh.online:7642?security=none=/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+
+
+
 
 
