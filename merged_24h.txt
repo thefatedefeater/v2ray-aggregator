@@ -1,15 +1,3 @@
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=ads.linkedin.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=Viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://24e01a84-4864-40e4-abc4-2dc0432d68d4@support.zoom.us:80?type=ws&path=%2F&host=paid.free.pranithsandaruwan.shop&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=store.steampowered.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=ads.linkedin.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=Viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://7ae58f02-34e3-45d1-aacd-00c10f160587@paid.free.pranithsandaruwan.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-
-
 vless://caa5b2fd-38df-4ab8-8a4b-744cb854d161@199.232.110.60:80?security=none&type=ws&host=div.delbar.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://9874e2c7-910c-42d0-9068-819c3aaa9cc3@199.232.110.60:80?security=none&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=div.delbar.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://caa5b2fd-38df-4ab8-8a4b-744cb854d161@199.232.0.174:80?security=none&type=ws&host=div.delbar.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
@@ -140,6 +128,9 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Cteleg
 vless://9a6d81c6-1f02-4928-ab1b-7bbf19a5ae75@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=6.fidsxss6x.iR&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw82.net&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://b5af85a1-d7cb-43ad-b991-6f3b904c067e@konkurifree.sanjesh.online:7642?security=none=/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+
+
+
 
 
 
