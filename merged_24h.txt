@@ -10,18 +10,6 @@ trojan://telegram-id-directvpn@13.53.64.206:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@3.67.246.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
 
 
-vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Germany2.vip-nufilter.coM&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔@v2ray_configs_pool
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@50.17.144.128:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@15.157.232.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@3.97.92.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@3.148.28.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@52.14.64.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@98.83.123.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@13.49.8.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@13.53.64.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@3.67.246.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-
-
 vless://04306514-713c-4357-9094-2cfcfbf8fc3e@cloud2.xmsvx.com:80?path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config&security=none&encryption=none&host=jetservices55.ir&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#👉🆔@v2ray_configs_pool📡🇨🇦Canada
 vless://04306514-713c-4357-9094-2cfcfbf8fc3e@ns4.esfahansiman.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=WWW.EsfahAnsimaN.infO.&fp=chrome&type=ws&sni=WWW.EsfahAnsimaN.infO.#👉🆔@v2ray_configs_pool📡🇨🇷Costa Rica
@@ -296,5 +284,17 @@ vless://eb6c7d6e-aa53-4616-9e64-46a0a2d95732@104.17.147.22:2095?security=none&ty
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.164.243:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.164.243:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEzOC4xOTcuMS4yMjIiLCAicG9ydCI6ICI4ODgxIiwgImlkIjogImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIm1vaS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
+
+
+vless://telegram--VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.C.116.speedtest2.livE.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@34.246.192.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.229.206.131:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-directvpn@3.20.84.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9b88ef0b-8afd-40a8-b96f-e09e319a97c6@live.989bull.com:443?path=%2FCHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=Golestan_VPN.com&fp=firefox&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://telegram---VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER-94fe7d67b02d@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://telegram---VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://TELEGRAM-NUFiLTER-94fe7d67b02d@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
